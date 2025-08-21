@@ -5,7 +5,8 @@ const CareerFormSection = () => {
     <section className="career-form-section">
       <div className="title-wrapper">
         <div className="lef" />
-        <h2><span className="bold">Still Confused? We’ve Got You</span></h2>
+        <h2><span className="bold">Still Confused? soon
+    We’ve Got You</span></h2>
         <div className="righ" />
       </div>
       <p className="subtitle">
