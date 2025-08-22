@@ -12,7 +12,7 @@ const HeaderSelector = () => {
   }
   
   // Show regular Header for all other pages
-  return <HomeHeader />;
+  return <Header />;
 };
 
 export default HeaderSelector;
